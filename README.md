@@ -20,9 +20,9 @@ Operational Efficiency
 7. Staff Training and Development
 8. Performance Metrics and KPIs
 9. Vendor and Contractor Management
-10. Tenant Service Enhancements
-
-12. Strategic Redirection:
+10. Tenant Service Enhancement
+    
+Strategic Redirection:
 1. Business Model Reevaluation
 2. Market Opportunity Analysis
 3. Competitive Landscape Assessment
@@ -69,3 +69,4 @@ Customer Retention and Growth:
 8. Tenant Retention Analytics
 9. Lease Renewal Strategies
 10. Expansion of Tenant Base
+
